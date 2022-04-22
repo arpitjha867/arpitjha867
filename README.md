@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpitjha867
 - 👀 I’m interested in Data Analytics | Data Science | Machine Learning
-- 🌱 I’m currently pursuing B-Tech in Electrical nd Electronics Engineering
+- 🌱 I’m currently pursuing B-Tech in Electrical and Electronics Engineering
 - 💞️ I’m looking for internship opportunities in the field of Data Analytics
 - 📫 How to reach me , My Email : arpitjha867@gmail.com
 
