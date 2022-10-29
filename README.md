@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arpitjha867
 - 👀 I’m interested in FrontEnd Development| Data Analytics| Blockchain | AI
 - 🌱 I’m currently pursuing B-Tech in Electrical and Electronics Engineering
-- 💞️ I’m looking for internship opportunities 
+- 💞️ I’m looking for internship and Full time opportunities 
 - 📫 How to reach me , My Email : arpitjha867@gmail.com
 
 <!---
