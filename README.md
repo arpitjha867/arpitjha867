@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arpitjha867
-- 👀 I’m interested in FrontEnd Development| Data Analytics| Blockchain | AI
-- 🌱 I’m currently pursuing B-Tech in Electrical and Electronics Engineering
+- 👋 Hi, I’m Arpit Jha , I am a Frontend Developer
+- 👀 I’m interested in Full Stack Development| Data Analytics | Blockchain | AI
+- 🌱 I’m currently Frontend Developer Intern at UniConverge Technologies
 - 💞️ I’m looking for internship and Full time opportunities 
 - 📫 How to reach me , My Email : arpitjha867@gmail.com
 
