@@ -31,7 +31,6 @@ Frontend Software Engineer with skills in JavaScript, ReactJS. Strong analytical
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Netlify Logo](https://img.shields.io/badge/Netlify-Used-00C7B7?logo=netlify)](https://www.netlify.com)
 [![Vercel Logo](https://img.shields.io/badge/Vercel-Used-000000?logo=vercel)](https://vercel.com)
-[![Docker Logo](https://img.shields.io/badge/Docker-Used-2496ED?logo=docker)](https://www.docker.com)
 
 
 <!---
