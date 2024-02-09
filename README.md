@@ -1,6 +1,6 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Arpit+Welcome+to+my+Github+Profile!" align="middle" alt="Hi, I am Arpit! 👋 Welcome to my GitHub Profile! animated typed out">
 
-Frontend Software Engineer with skills in JavaScript, ReactJS. Strong analytical and problem-solving skills to create data-driven products. Passionate about making world a better place with the use of technology and open source contributions.
+Full-Stack Developer skilled in JavaScript, ReactJS, NodeJS, Express, and MongoDB. Strong problem-solving skills with a focus on data-driven solutions. Passionate about leveraging technology for positive change and contributing to open source projects. Let's create impactful solutions together! 🚀
 
 - My PortFolio website :- https://arpit-jha-portfolio.netlify.app/
 - 📫 How to reach me , My Email : arpitjha867@gmail.com
