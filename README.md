@@ -28,6 +28,7 @@ Master's in Computer Science student focused on High-Performance Computing (HPC)
 
 [![GitHub Logo](https://img.shields.io/badge/GitHub-Used-181717?logo=github)](https://github.com/your_username)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL](https://img.shields.io/badge/Language-SQL-CC2927?logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
 
