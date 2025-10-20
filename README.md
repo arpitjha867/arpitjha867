@@ -1,4 +1,4 @@
-#Hi, I am Arpit,
+# Hi, I am Arpit,
 
 Master's in Computer Science student focused on High-Performance Computing (HPC) and the semiconductor industry. Core skills: C/C++, Data Structures and Algorithms (DSA), CUDA, and Parallel/Distributed Programming. Integrating Machine Learning (ML) principles into system-level optimization.
 
