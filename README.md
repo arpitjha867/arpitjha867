@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Arpit+Welcome+to+my+Github+Profile!" align="middle" alt="Hi, I am Arpit! 👋 Welcome to my GitHub Profile! animated typed out">
+#Hi, I am Arpit,
 
 Master's in Computer Science student focused on High-Performance Computing (HPC) and the semiconductor industry. Core skills: C/C++, Data Structures and Algorithms (DSA), CUDA, and Parallel/Distributed Programming. Integrating Machine Learning (ML) principles into system-level optimization.
 
