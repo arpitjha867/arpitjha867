@@ -30,7 +30,7 @@ Master's in Computer Science student focused on High-Performance Computing (HPC)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL](https://img.shields.io/badge/Language-SQL-CC2927?logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-
+[![An image of @arpitjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpitjha)](https://holopin.io/@arpitjha)
 
 <!---
 arpitjha867/arpitjha867 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
